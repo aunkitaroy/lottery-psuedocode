@@ -1,1 +1,2 @@
 Asking user to select the number of draws they wish to make.
+How many draws do you wish to make?
